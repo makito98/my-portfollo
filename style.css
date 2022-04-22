@@ -1,0 +1,79 @@
+.header-container {
+  background-color: aquamarine;
+  color: white;
+  height: 100px;
+}
+
+.header {
+  font-size: 45px;
+  float: left;
+  padding: 30px;
+  text-align: center;
+}
+
+.header-list li {
+  list-style: none;
+  float: right;
+  font-size: 20px;
+  padding: 33px;
+}
+
+.main-container {
+  background-color: bisque;
+  height: 700px;
+}
+
+.main {
+  padding-right: 50px;
+  padding-left: 150px;
+  float: left;
+}
+
+.infomation h3 {
+  padding: 20px;
+  font-size: 25px;
+}
+
+.infomation h1 {
+  font-size: 80px;
+}
+
+img {
+  padding-top: 50px;
+  padding-left: 10px;
+  width: 400px;
+  border-radius: 100px;
+}
+
+.infomation {
+  float: right;
+  padding-top: 100px;
+  padding-right: 50px;
+  padding-left: 200px;
+}
+
+.infomation h2 {
+  color: brown;
+  padding-top: 10px;
+}
+
+.University-container {
+  height: 600px;
+  background-color: rgb(152, 214, 239);
+}
+
+.university-text h3 {
+  float: right;
+  padding-top: 100px;
+  padding-right: 80px;
+}
+
+.university-text h2 {
+  font-size: 60px;
+  text-align: center;
+  margin-left: 100px;
+}
+
+.university-text h4 {
+  float: left;
+}
