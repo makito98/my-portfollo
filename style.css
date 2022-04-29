@@ -62,7 +62,7 @@ img {
   background-color: rgb(152, 214, 239);
 }
 
-.university-text h3 {
+.University-contents h3 {
   float: right;
   padding-top: 100px;
   padding-right: 80px;
@@ -74,6 +74,10 @@ img {
   margin-left: 100px;
 }
 
-.university-text h4 {
-  float: left;
+.University-contents h4 {
+  float: right;
+}
+
+.University-contents img {
+  padding-left: 500px;
 }
